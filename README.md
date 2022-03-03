@@ -3,7 +3,7 @@
 - 👀 I’m interested in java; JS; c++; SQL; DL...
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on opensource
-- 📫 for discussion and colab reach me @ cu.17bcs3318@gmail.com
+- 📫 For discussion and colab reach me @ cu.17bcs3318@gmail.com
 
 <!---
 Mktan-18/Mktan-18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
