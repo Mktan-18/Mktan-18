@@ -1,7 +1,6 @@
 - 👋 👋
 - Hi, I’m @Mktan-18 open-source enthusiast and always a student at core, Here to contribute and learn
-- 
-- 👀 I’m interested in java; JS; c++; SQL; DL
+- 👀 I’m interested in java; JS; c++; SQL; DL...
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on opensource
 - 📫 for discussion and colab reach me @ cu.17bcs3318@gmail.com
