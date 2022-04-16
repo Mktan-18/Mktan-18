@@ -1,8 +1,8 @@
-- 👋 👋
-- Hi, I’m @Mktan-18 open-source enthusiast and always a student at core, Here to contribute and learn
-- 👀 I’m interested in java; JS; c++; SQL; DL...
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on opensource
+- 👋 👋 
+- Hi, I’m Moni Kumar. A tech enthusiast, all time learner and always a student at core, Here to contribute and learn
+- 👀 I’m interested in java; JS; c++; SQL; CNCF **...
+- 🌱 I’m currently learning full stack web development
+- 💞️ Actively looking to collaborate on opensource
 - 📫 For discussion and colab reach me @ moni.mkthapa@gmail.com
 
 <!---
