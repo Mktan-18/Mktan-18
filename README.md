@@ -2,7 +2,7 @@
 - Hi, I’m Moni Kumar. Open source enthusiast, all time learner and always a student at core, Here to contribute and learn
 - 👀 I’m a java spring boot developer, with a working knowledge of CNCF, object oriented and functional programming paradigm.
 - 🌱 I’m currently working as an SWE
-- 💞️ Actively looking to collaborate on opensource, interested in Qiskit development.
+- 💞️ Actively looking to collaborate on opensource, interested in AI engineering and Qiskit development.
 - 📫 For discussion and colab reach me @ moni.mkthapa@gmail.com
 
 <!---
